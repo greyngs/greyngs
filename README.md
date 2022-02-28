@@ -24,4 +24,4 @@
 -  Science
 -  Data Science
 -  Travel by motorcycle
-- Teach what I know
+- Teach what I learn
