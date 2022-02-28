@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Jorge Reyes.</h2>
 
-<!--
-**greyngs/greyngs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- I'm making my blog so this is for later
+<p align="center">
+<a href="">Blog</a> •
+<a href="">Twitter</a>
+</p>
 -->
+- 🔭 I’m currently working on **something cool 😉**
+
+- 🌱 I’m currently learning **Algorithms, Data Science and Web**
+
+- 💬 Ask me about **Python, Django, Data science and Competitive programming**
+
+- 📫 How to reach me: [@greyngs](https://https://twitter.com/greyngs) on Twitter, [@reyesjorge16](https://instagram.com/reyesjorge16) on Instagram
+
+- ⚡ Fun fact: Big Fan of Star Trek 🖖 Tor Dif smusma je
+
+-------
+
+**🧡 My passions**
+
+-  Technology and software
+-  Science
+-  Data Science
+-  Travel by motorcycle
+- Teach what I know
