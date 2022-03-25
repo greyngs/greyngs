@@ -12,9 +12,11 @@
 
 - 💬 Ask me about **Python, Django, Data science and Competitive programming**
 
-- 📫 How to reach me: [@greyngs](https://https://twitter.com/greyngs) on Twitter, [@reyesjorge16](https://instagram.com/reyesjorge16) on Instagram
+- 📫 How to reach me: [@greyngs](https://https://twitter.com/greyngs) on Twitter, [@reyesjorge16](https://www.instagram.com/greyngs_/) on Instagram
 
 - ⚡ Fun fact: Big Fan of Star Trek 🖖 Tor Dif smusma je
+
+- 📖 Learning: Go, Tailwind CSS.
 
 -------
 
