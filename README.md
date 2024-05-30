@@ -1,29 +1,13 @@
-<h2 align="center">👋 Hello! I'm Jorge Reyes.</h2>
+<h2 align="center">I'm Jorge</h2>
+<p align="center"><i>And I'm always looking for adventures</i></p>
 
-<!-- I'm making my blog so this is for later
-<p align="center">
-<a href="">Blog</a> •
-<a href="">Twitter</a>
-</p>
--->
-- 🔭 I’m currently working on **something cool 😉**
+- 🚀 Master's student in Applied Artificial Intelligence at Tecnologico de Monterrey, Mexico
+  
+- 🌱 I’m currently learning **Algorithms, Data Analysis, BI, FullStack**
 
-- 🌱 I’m currently learning **Algorithms, Data Science and Web**
+- 💬 Ask me about **Python, Data Science and Competitive programming**
 
-- 💬 Ask me about **Python, Django, Data science and Competitive programming**
+- 📫 How to reach me: [jorgereyes0116]([https://https://twitter.com/greyngs](https://www.linkedin.com/in/jorgereyes0116/)) on Linkedin
 
-- 📫 How to reach me: [@greyngs](https://https://twitter.com/greyngs) on Twitter, [@reyesjorge16](https://www.instagram.com/greyngs_/) on Instagram
 
-- ⚡ Fun fact: Big Fan of Star Trek 🖖 Tor Dif smusma je
-
-- 📖 Learning: Go, Tailwind CSS.
-
--------
-
-**🧡 My passions**
-
--  Technology and software
--  Science
--  Data Science
--  Travel by motorcycle
-- Teach what I learn
+<p align="center"><i>🖖 Tor Dif smusma je</i></p>
