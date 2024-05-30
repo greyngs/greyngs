@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Data Science and Competitive programming**
 
-- 📫 How to reach me: [jorgereyes0116]([https://https://twitter.com/greyngs](https://www.linkedin.com/in/jorgereyes0116/)) on Linkedin
+- 📫 How to reach me: [jorgereyes0116](https://www.linkedin.com/in/jorgereyes0116/) on Linkedin
 
 
 <p align="center"><i>🖖 Tor Dif smusma je</i></p>
